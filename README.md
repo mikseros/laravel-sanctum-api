@@ -1,4 +1,4 @@
-#Laravel REST API With Sanctum Authentication
+## Laravel REST API With Sanctum Authentication
 
 Tutorial project.
 
